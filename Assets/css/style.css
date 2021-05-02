@@ -24,6 +24,7 @@ body {
     color: #d9dcd6;
 }
 
+/* Changed the div into nav to match semantic use in HTML */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,10 +33,12 @@ body {
     font-size: 20px;
 }
 
+/* Changed the div into nav to match semantic use in HTML */
 .header nav ul {
     list-style-type: none;
 }
 
+/* Changed the div into nav to match semantic use in HTML */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
