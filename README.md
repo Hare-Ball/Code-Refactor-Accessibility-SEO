@@ -1,4 +1,4 @@
-# Homework-1
+# Code-Refactor-Accesibility-SEO
 
 The Horiseon Website has been updated to match semantic language. The CSS has been adjusted to match the new semantic language changes.
 
